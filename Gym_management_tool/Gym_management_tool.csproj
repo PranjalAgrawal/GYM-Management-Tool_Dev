@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -17,6 +17,12 @@
 
   <ItemGroup>
     <Folder Include="Models\POCO\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClientInfo\GymEntity.csproj" />
+    <ProjectReference Include="..\ClientServiceLayer\GymServiceLayer.csproj" />
+    <ProjectReference Include="..\GymPersistenceLayer\GymPersistenceLayer.csproj" />
   </ItemGroup>
 
 </Project>
