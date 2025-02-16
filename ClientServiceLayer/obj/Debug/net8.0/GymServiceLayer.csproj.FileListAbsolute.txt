@@ -1,0 +1,16 @@
+C:\Users\backt\source\GYM Tool\ClientServiceLayer\bin\Debug\net8.0\GymServiceLayer.deps.json
+C:\Users\backt\source\GYM Tool\ClientServiceLayer\bin\Debug\net8.0\GymServiceLayer.dll
+C:\Users\backt\source\GYM Tool\ClientServiceLayer\bin\Debug\net8.0\GymServiceLayer.pdb
+C:\Users\backt\source\GYM Tool\ClientServiceLayer\bin\Debug\net8.0\GymEntity.dll
+C:\Users\backt\source\GYM Tool\ClientServiceLayer\bin\Debug\net8.0\GymEntity.pdb
+C:\Users\backt\source\GYM Tool\ClientServiceLayer\obj\Debug\net8.0\GymServiceLayer.csproj.AssemblyReference.cache
+C:\Users\backt\source\GYM Tool\ClientServiceLayer\obj\Debug\net8.0\GymServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\backt\source\GYM Tool\ClientServiceLayer\obj\Debug\net8.0\GymServiceLayer.AssemblyInfoInputs.cache
+C:\Users\backt\source\GYM Tool\ClientServiceLayer\obj\Debug\net8.0\GymServiceLayer.AssemblyInfo.cs
+C:\Users\backt\source\GYM Tool\ClientServiceLayer\obj\Debug\net8.0\GymServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\backt\source\GYM Tool\ClientServiceLayer\obj\Debug\net8.0\GymServiceLayer.sourcelink.json
+C:\Users\backt\source\GYM Tool\ClientServiceLayer\obj\Debug\net8.0\GymServi.DF7A983B.Up2Date
+C:\Users\backt\source\GYM Tool\ClientServiceLayer\obj\Debug\net8.0\GymServiceLayer.dll
+C:\Users\backt\source\GYM Tool\ClientServiceLayer\obj\Debug\net8.0\refint\GymServiceLayer.dll
+C:\Users\backt\source\GYM Tool\ClientServiceLayer\obj\Debug\net8.0\GymServiceLayer.pdb
+C:\Users\backt\source\GYM Tool\ClientServiceLayer\obj\Debug\net8.0\ref\GymServiceLayer.dll

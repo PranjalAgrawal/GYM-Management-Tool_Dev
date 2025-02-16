@@ -1,0 +1,16 @@
+C:\Users\backt\source\GYM Tool\GymPersistenceLayer\bin\Debug\net8.0\GymPersistenceLayer.deps.json
+C:\Users\backt\source\GYM Tool\GymPersistenceLayer\bin\Debug\net8.0\GymPersistenceLayer.dll
+C:\Users\backt\source\GYM Tool\GymPersistenceLayer\bin\Debug\net8.0\GymPersistenceLayer.pdb
+C:\Users\backt\source\GYM Tool\GymPersistenceLayer\bin\Debug\net8.0\GymEntity.dll
+C:\Users\backt\source\GYM Tool\GymPersistenceLayer\bin\Debug\net8.0\GymEntity.pdb
+C:\Users\backt\source\GYM Tool\GymPersistenceLayer\obj\Debug\net8.0\GymPersistenceLayer.csproj.AssemblyReference.cache
+C:\Users\backt\source\GYM Tool\GymPersistenceLayer\obj\Debug\net8.0\GymPersistenceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\backt\source\GYM Tool\GymPersistenceLayer\obj\Debug\net8.0\GymPersistenceLayer.AssemblyInfoInputs.cache
+C:\Users\backt\source\GYM Tool\GymPersistenceLayer\obj\Debug\net8.0\GymPersistenceLayer.AssemblyInfo.cs
+C:\Users\backt\source\GYM Tool\GymPersistenceLayer\obj\Debug\net8.0\GymPersistenceLayer.csproj.CoreCompileInputs.cache
+C:\Users\backt\source\GYM Tool\GymPersistenceLayer\obj\Debug\net8.0\GymPersistenceLayer.sourcelink.json
+C:\Users\backt\source\GYM Tool\GymPersistenceLayer\obj\Debug\net8.0\GymPersi.89C4CB9E.Up2Date
+C:\Users\backt\source\GYM Tool\GymPersistenceLayer\obj\Debug\net8.0\GymPersistenceLayer.dll
+C:\Users\backt\source\GYM Tool\GymPersistenceLayer\obj\Debug\net8.0\refint\GymPersistenceLayer.dll
+C:\Users\backt\source\GYM Tool\GymPersistenceLayer\obj\Debug\net8.0\GymPersistenceLayer.pdb
+C:\Users\backt\source\GYM Tool\GymPersistenceLayer\obj\Debug\net8.0\ref\GymPersistenceLayer.dll

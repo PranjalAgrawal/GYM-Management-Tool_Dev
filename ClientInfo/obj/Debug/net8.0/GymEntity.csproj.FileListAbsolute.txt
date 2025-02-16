@@ -1,0 +1,12 @@
+C:\Users\backt\source\GYM Tool\ClientInfo\bin\Debug\net8.0\GymEntity.deps.json
+C:\Users\backt\source\GYM Tool\ClientInfo\bin\Debug\net8.0\GymEntity.dll
+C:\Users\backt\source\GYM Tool\ClientInfo\bin\Debug\net8.0\GymEntity.pdb
+C:\Users\backt\source\GYM Tool\ClientInfo\obj\Debug\net8.0\GymEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\backt\source\GYM Tool\ClientInfo\obj\Debug\net8.0\GymEntity.AssemblyInfoInputs.cache
+C:\Users\backt\source\GYM Tool\ClientInfo\obj\Debug\net8.0\GymEntity.AssemblyInfo.cs
+C:\Users\backt\source\GYM Tool\ClientInfo\obj\Debug\net8.0\GymEntity.csproj.CoreCompileInputs.cache
+C:\Users\backt\source\GYM Tool\ClientInfo\obj\Debug\net8.0\GymEntity.sourcelink.json
+C:\Users\backt\source\GYM Tool\ClientInfo\obj\Debug\net8.0\GymEntity.dll
+C:\Users\backt\source\GYM Tool\ClientInfo\obj\Debug\net8.0\refint\GymEntity.dll
+C:\Users\backt\source\GYM Tool\ClientInfo\obj\Debug\net8.0\GymEntity.pdb
+C:\Users\backt\source\GYM Tool\ClientInfo\obj\Debug\net8.0\ref\GymEntity.dll
